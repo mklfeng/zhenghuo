@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "ConsoleApp1/1.0.0": {
+      "ZhengHuo/1.0.0": {
         "dependencies": {
           "Microsoft.Win32.Registry": "5.0.0",
           "System.ServiceProcess.ServiceController": "5.0.0",
@@ -14,7 +14,7 @@
           "Interop.NetFwTypeLib": "1.0.0.0"
         },
         "runtime": {
-          "ConsoleApp1.dll": {}
+          "ZhengHuo.dll": {}
         }
       },
       "Microsoft.NETCore.Platforms/5.0.0": {},
@@ -132,7 +132,7 @@
     }
   },
   "libraries": {
-    "ConsoleApp1/1.0.0": {
+    "ZhengHuo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -135,20 +135,25 @@ namespace ConsoleApp1
                     firewallPolicy.Rules.Remove("禁用所有端口号");
                     //添加成功,显示成功标志
                     Console.WriteLine("启动成功");
-                    Console.ReadKey();
                 }
             }
         }
         static void Main(string[] args)
         {
-
+            start();
+        }
+       static void start()
+        {
+            Console.WriteLine("输入等待时间开始启动");
+            string str = Console.ReadLine();
             Program p = new Program();
             string sysversion = p.getsysversion();
             p.openfire(sysversion);
             p.handle(sysversion);
             //挂起线程5s后启动服务
-            System.Threading.Thread.Sleep(5000);
+            System.Threading.Thread.Sleep(int.Parse(str + "000"));
             p.AllowOpenFW();
+            start();
         }
     }
 }
