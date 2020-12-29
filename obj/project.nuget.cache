@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "V1rWhZC41yN6SDrlpdOU3RC3N48Uv194fdLategcUTylQlcTkgxUuPHuP67UD+KduVmuXeP5xKUDipINBUG/pw==",
+  "success": true,
+  "projectFilePath": "E:\\一些东西\\dotnetcore\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.diagnostics.eventlog\\5.0.0\\system.diagnostics.eventlog.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0\\system.serviceprocess.servicecontroller.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\vocaluxe.dependencies.netfwtypelib\\1.0.1\\vocaluxe.dependencies.netfwtypelib.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
