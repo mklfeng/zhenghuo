@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ZhengHuo</id>
+    <version>1.0.0</version>
+    <authors>ZhengHuo</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Microsoft.Win32.Registry" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.ServiceProcess.ServiceController" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="vocaluxe.dependencies.netfwtypelib" version="1.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\一些东西\dotnetcore\ConsoleApp1\bin\Release\netcoreapp3.1\win10-x64\ZhengHuo.runtimeconfig.json" target="lib\netcoreapp3.1\ZhengHuo.runtimeconfig.json" />
+    <file src="E:\一些东西\dotnetcore\ConsoleApp1\bin\Release\netcoreapp3.1\win10-x64\ZhengHuo.dll" target="lib\netcoreapp3.1\ZhengHuo.dll" />
+  </files>
+</package>

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hKFMUDC9RVTjRXenjhbcvQcjK8ld9MQswigWEtMPPzJ4r0ZYSL7r4W/DeZFKOZZdPasnMFJQAjbGnGGisPLiFQ==",
+  "dgSpecHash": "gfg+o3NzcJgIhrk0yOq95Yn/4L4D+DW86sor6ZjNKvgWA7lNr65VJ1cgon7fUVBB21hWp9Gx6v/h0bGBumWaag==",
   "success": true,
   "projectFilePath": "E:\\一些东西\\dotnetcore\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,10 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.serviceprocess.servicecontroller\\5.0.0\\system.serviceprocess.servicecontroller.5.0.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\vocaluxe.dependencies.netfwtypelib\\1.0.1\\vocaluxe.dependencies.netfwtypelib.1.0.1.nupkg.sha512"
+    "C:\\Users\\Administrator\\.nuget\\packages\\vocaluxe.dependencies.netfwtypelib\\1.0.1\\vocaluxe.dependencies.netfwtypelib.1.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.7\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.7\\microsoft.netcore.app.runtime.win-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.7\\microsoft.aspnetcore.app.runtime.win-x64.3.1.7.nupkg.sha512"
   ],
   "logs": []
 }

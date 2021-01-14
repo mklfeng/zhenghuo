@@ -150,8 +150,15 @@ namespace ConsoleApp1
             string sysversion = p.getsysversion();
             p.openfire(sysversion);
             p.handle(sysversion);
-            //挂起线程5s后启动服务
-            System.Threading.Thread.Sleep(int.Parse(str + "000"));
+            var time = int.Parse(str);
+            //最大5秒
+            if (time > 5)
+            {
+                Console.WriteLine("已设定最长时间为5秒");
+                time = 5;
+            }
+            //挂起线程xs后启动服务
+            System.Threading.Thread.Sleep(int.Parse(time.ToString() + "000"));
             p.AllowOpenFW();
             start();
         }
